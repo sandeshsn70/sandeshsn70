@@ -16,24 +16,9 @@ Computer Engineering undergraduate (8.88 CGPA) with a focus on backend engineeri
 - 🧠 150+ Data Structures & Algorithms problems solved on LeetCode
 - 🗂️ Maintaining 15+ repositories spanning full-stack and AI-based applications
 
----
-
-## Tech Stack
-
-• Languages: Python, Java, SQL 
-• Machine Learning: Scikit-learn, Pandas, NumPy, Linear/Logistic Regression, Random Forest, Gradient Boosting, XGBoost, Isolation Forest, 
-                    Feature Engineering 
-• Deep Learning & NLP: Neural Networks, TF-IDF, NLP text classification, Explainable AI (XAI) 
-• AI & LLM: RAG pipelines, vector embeddings (pgvector), LLM API integration, prompt engineering 
-• Model Evaluation: Accuracy, Precision, Recall, F1 Score, Cross-Validation, MAE, RMSE, R² 
-• Backend & APIs: Flask, Spring Boot, REST APIs, SQLite, PostgreSQL + pgvector, MySQL, JDBC, Hibernate 
-• Tools: Git/GitHub, Jupyter Notebook, Docker, Postman 
-
----
-
 ## Featured Projects
 
-### 🔹 TaskMarket — Reverse-Bidding Service Marketplace
+### 🔹 BidSynq — Reverse-Bidding Service Marketplace
 `Java` `Spring Boot` `React.js` `MySQL` `REST API` `RAG`
 A full-stack marketplace supporting real-time reverse bidding and dynamic provider evaluation. Includes an Explainable AI (XAI) TrustScore engine and a domain-specific RAG assistant for grounded platform policy guidance.
 
