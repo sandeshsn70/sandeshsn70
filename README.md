@@ -20,15 +20,14 @@ Computer Engineering undergraduate (8.88 CGPA) with a focus on backend engineeri
 
 ## Tech Stack
 
-**Languages:** Java · C++ · Python · JavaScript (ES6+)
-
-**Backend:** Spring Boot · Spring MVC · Spring Data JPA · Hibernate ORM · RESTful APIs · Microservices
-
-**Frontend:** React.js · HTML5 · CSS3 · Bootstrap
-
-**Databases & Cloud:** MySQL · PostgreSQL · AWS (Cloud Practitioner Essentials)
-
-**Tools:** Git & GitHub · Postman · Maven · Linux/Unix · Agile/Scrum
+• Languages: Python, Java, SQL 
+• Machine Learning: Scikit-learn, Pandas, NumPy, Linear/Logistic Regression, Random Forest, Gradient Boosting, XGBoost, Isolation Forest, 
+                    Feature Engineering 
+• Deep Learning & NLP: Neural Networks, TF-IDF, NLP text classification, Explainable AI (XAI) 
+• AI & LLM: RAG pipelines, vector embeddings (pgvector), LLM API integration, prompt engineering 
+• Model Evaluation: Accuracy, Precision, Recall, F1 Score, Cross-Validation, MAE, RMSE, R² 
+• Backend & APIs: Flask, Spring Boot, REST APIs, SQLite, PostgreSQL + pgvector, MySQL, JDBC, Hibernate 
+• Tools: Git/GitHub, Jupyter Notebook, Docker, Postman 
 
 ---
 
